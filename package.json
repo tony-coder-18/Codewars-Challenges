@@ -1,0 +1,27 @@
+{
+  "name": "codewars-challenges",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tony-coder-18/Codewars-Challenges.git"
+  },
+  "keywords": [
+    "typescript",
+    "coding",
+    "challenges"
+  ],
+  "author": "tony-coder-18 (Bill Llach Bruges)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tony-coder-18/Codewars-Challenges/issues"
+  },
+  "homepage": "https://github.com/tony-coder-18/Codewars-Challenges#readme",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
